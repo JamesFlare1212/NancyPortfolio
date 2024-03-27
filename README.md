@@ -1,6 +1,6 @@
 # NancyPortfolio
 
-This is a git repository for the FlareBlog. The Blog is based on [Hugo](https://gohugo.io/) and [Creative portfolio theme for hugo](https://github.com/kishaningithub/hugo-creative-portfolio-theme) theme.
+This is a git repository for the NancyPortfolio. The Portfolio is based on [Hugo](https://gohugo.io/) and [Creative portfolio theme for hugo](https://github.com/kishaningithub/hugo-creative-portfolio-theme).
 
 ## Run in local
 

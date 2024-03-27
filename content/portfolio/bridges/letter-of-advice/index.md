@@ -1,8 +1,8 @@
 +++
-slug = "bridges-letter-of-advice"
+slug = "letter-of-advic"
 showonlyimage = false
 draft = false
-image = "portfolio/bridges/bridges-letter-of-advice/letter-to-Mina.avif"
+image = "portfolio/bridges/letter-of-advic/featured.avif"
 date = 2023-09-25T19:40:58-04:00
 title = 'Letter of Advice'
 description = "A formal letter full of advice to Mina."
@@ -59,7 +59,7 @@ You are at the start of a great adventure. Trust the journey! Have compassion fo
 With love and encouragement,  
 Nancy
 
-{{< figure src="portfolio/bridges/bridges-letter-of-advice/letter-to-Mina.avif" width=480px caption="Letter of advice for Mina" >}}
+{{< figure src="portfolio/bridges/letter-of-advic/letter-to-Mina.avif" width=480px caption="Letter of advice for Mina" >}}
 
 ## Reflection
 
@@ -67,7 +67,7 @@ During my writing on the project, I found that this is the first time I have wri
 
 Based on my suggestions to my partner, I began to use design thinking at my studio class. First, I defined the difficulties of my partner and the methods I gave, and then ideate them. The letter I wrote to my partner became a very strong basement for the define and ideation process in the design thinking for my studio class.
 
-{{< figure src="portfolio/bridges/bridges-letter-of-advice/mindmap.avif" width=768px caption=" " >}}
+{{< figure src="portfolio/bridges/letter-of-advic/mindmap.avif" width=768px caption=" " >}}
 
 For the making part of this project, I'm pretty good at origami, but I had a different feeling when I folded the envelope and put the letter in. When I first printed the letter, it was just a normal writing assignment, no different from the previous ones. But when I folded it and put it in the envelope, its state changed completely. It is no longer a simple assignment, but a real letter. It is my sincere advice to my partner.
 

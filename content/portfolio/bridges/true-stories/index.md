@@ -1,8 +1,8 @@
 +++
-slug = "bridges-true-stories"
+slug = "true-stories"
 showonlyimage = false
 draft = false
-image = "portfolio/bridges/bridges-true-stories/the-poster.avif"
+image = "portfolio/bridges/true-stories/featured.avif"
 date = 2023-09-11T19:15:18-04:00
 title = 'True Stories'
 description = "Bridge 1: True Stories. A collection of three captivating short stories inspired by the work of Sophie Calle."
@@ -13,9 +13,9 @@ weight = 0
 > Published 2023/09/11 at 8:22 pm
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-true-stories/hide-and-seek.avif" caption="Hide and Seek" >}}
-  {{< figure src="portfolio/bridges/bridges-true-stories/going-up.avif" caption="Going Up!" >}}
-  {{< figure src="portfolio/bridges/bridges-true-stories/the-poster.avif" caption="The Poster" >}}
+  {{< figure src="portfolio/bridges/true-stories/hide-and-seek.avif" caption="Hide and Seek" >}}
+  {{< figure src="portfolio/bridges/true-stories/going-up.avif" caption="Going Up!" >}}
+  {{< figure src="portfolio/bridges/true-stories/the-poster.avif" caption="The Poster" >}}
 {{< /gallery >}}
 {{< load-photoswipe >}}
 

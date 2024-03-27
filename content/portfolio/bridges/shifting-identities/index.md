@@ -1,8 +1,8 @@
 +++
-slug = "bridges-shifting-identities"
+slug = "shifting-identities"
 showonlyimage = false
 draft = false
-image = "portfolio/bridges/bridges-shifting-identities/explored-present-1.avif"
+image = "portfolio/bridges/shifting-identities/featured.avif"
 date = "2023-09-06T18:25:22+05:30"
 title = "Shifting Identities"
 description = "Bridge 1, shifting identities: past, present and future identity exploration."
@@ -15,9 +15,9 @@ weight = 0
 ## Mind Map
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/my-past.avif" caption="Past" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/my-present.avif" caption="Present" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/my-future.avif" caption="Future" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/my-past.avif" caption="Past" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/my-present.avif" caption="Present" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/my-future.avif" caption="Future" >}}
 {{< /gallery >}}
 {{< load-photoswipe >}}
 
@@ -36,12 +36,12 @@ At present, due to the change of geography and the influence of the environment,
 Here I completely changed into black clothes, took off my glasses and put on makeup and manicure to reflect the maturity of my personality. I used a strong light to give a sense of unreality, to show that these photos take place in the future. During the shooting process, I covered half of my face in the shadow, so as to reflect the two sides of the future, both the beautiful yearning for the future and the concerns about the future.
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/past-1.avif" caption="Past 1" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/present-1.avif" caption="Present 1" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/future-1.avif" caption="Future 1" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/past-2.avif" caption="Past 2" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/present-2.avif" caption="Present 2" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/future-2.avif" caption="Future 2" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/past-1.avif" caption="Past 1" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/present-1.avif" caption="Present 1" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/future-1.avif" caption="Future 1" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/past-2.avif" caption="Past 2" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/present-2.avif" caption="Present 2" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/future-2.avif" caption="Future 2" >}}
 {{< /gallery >}}
 
 ## Shifting Identities Symbolism & Context Explored
@@ -49,8 +49,8 @@ Here I completely changed into black clothes, took off my glasses and put on mak
 ### For My Past
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/explored-past-1.avif" caption="Past" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/my-past.avif" caption="Past" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/explored-past-1.avif" caption="Past" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/my-past.avif" caption="Past" >}}
 {{< /gallery >}}
 
 My introverted personality is partly caused by Chinese collectivism, where everyone is a subset of a larger group. Everyone needs to compromise or work hard for the sake of the collective honor, and at the same time, one person's mistake leads to the punishment of all. In this environment, I gradually dare not have my own opinion, I become a cog in a big system. Therefore, I copied and pasted my own pictures to highlight that there is little difference between the individual and the collective.
@@ -62,8 +62,8 @@ As a supplementary background, the decorative blue and white porcelain plate is 
 ### For My Present
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/explored-present-1.avif" caption="Present" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/my-present.avif" caption="Present" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/explored-present-1.avif" caption="Present" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/my-present.avif" caption="Present" >}}
 {{< /gallery >}}
 
 At present, everything is not so complicated now.
@@ -75,12 +75,12 @@ I wanted to show that I was shifting from my hometown to an entirely different c
 ## Final
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/final-past.avif" caption="Past" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/final-present.avif" caption="Present" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/final-future.avif" caption="Future" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/final-past.avif" caption="Past" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/final-present.avif" caption="Present" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/final-future.avif" caption="Future" >}}
 {{< /gallery >}}
 
-{{< figure src="portfolio/bridges/bridges-shifting-identities/final-revision.avif" width="768px" caption="Final Revision" >}}
+{{< figure src="portfolio/bridges/shifting-identities/final-revision.avif" width="768px" caption="Final Revision" >}}
 
 I initiated this project based on my mind maps. At the outset, I delved into creating separate photos to represent different aspects of my past and present. During the critique phase, I received valuable feedback that prompted a reevaluation of my approach. One key observation was the need to strengthen the connection between the two pictures and enhance their cohesion and continuity. This could be achieved through adjustments in tone style and resizing the central portrait elements, as both were positioned at the center. Additionally, I was advised to diversify the elements in my past photo and introduce variations in the repetitive background, emphasizing the individuality within collectivism. For the present photo, suggestions included refining the blurry edges, organizing the collage arrangement of my hometown logically, and aligning the buildings in line with directional signs to depict the current situation more effectively. Following with my future photo, I created a continues line through the triptych, in order to show the connection with these three photos. Meanwhile, I want to express a sense of the future vision of me would be looking back all the paths I’ve walked in order to reach the future.
 
