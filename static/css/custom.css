@@ -1,0 +1,19 @@
+/* your styles go here */
+.row {
+    display: flex;
+    justify-content: center;
+  }
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.box {
+    margin: 0 auto;
+  }
+
+audio {
+    width: 100%;
+  }
