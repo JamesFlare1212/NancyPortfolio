@@ -12,8 +12,6 @@ weight = 0
 
 > Published 2023/10/05 at 2:21 pm
 
-Here's an improved structure with more depth and fewer H2 headings:
-
 ## Introduction
 
 This project introduced the concept of peer to peer. We first interviewed our partners about their social identities in seminar class. Based on this, we started to create our mask using Design Thinking. The mask is designed to address issues that not only our partner is dealing with but also for people facing similar problems.
