@@ -104,3 +104,16 @@ Based on my suggestions to my partner, I began to use design thinking at my stud
 For the making part of this project, I'm pretty good at origami, but I had a different feeling when I folded the envelope and put the letter in. When I first printed the letter, it was just a normal writing assignment, no different from the previous ones. But when I folded it and put it in the envelope, its state changed completely. It is no longer a simple assignment, but a real letter. It is my sincere advice to my partner.
 
 The interview part, also the research part of the whole project, is the place where we really get to know each other. I‘ve been a little scared before a formal interview. I'm not a particularly social, talkative person, but as the interview progressed I tried to focus more on the problem itself rather than my own state. Concentration is a very magical thing, you will enter a state of "only the person in front of you is with you", so that you can better resonate with her, to understand her, to stand in her point of view to think, solve problems.
+
+## Comments
+
+<div id="artalk"></div>
+<script>
+Artalk.init({
+  el:        '#artalk',
+  pageKey:   '',
+  pageTitle: '',
+  server:    'https://artalk.jamesflare.com',
+  site:      'NancyFlare',
+})
+</script>

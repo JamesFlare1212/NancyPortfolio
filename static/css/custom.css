@@ -128,3 +128,8 @@ th {
   color: #225b5b;
 }
 
+/* Comment Styles - fix list bullet*/
+.atk-comment-count ul li::before {
+  content: '';
+  margin: 0px;
+}

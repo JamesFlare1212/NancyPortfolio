@@ -53,3 +53,16 @@ During my writing on the project, I had a new perspective on words. Previously, 
 For this project, I did not use materials that I had not used before, so there is not much that can be reflect in this section. However, when I used keynote for typesetting, my ideas began to change according to my typesetting, such as the length of the article and the composition of the picture.
 
 For the researching part,  When I read this book, “Sophie Calle - True Stories” I was surprised by the magic that unfolded within its pages. It taught me that even a simple picture combined with concise words could carry the enchantment of a full-fledged novel. The book approached storytelling from a unique angle, using abstract yet intriguing images and wrapping things up with sentences that left you thinking deeply. What struck me most was how quickly it drew me into the protagonist's world. I found myself feeling what they felt and contemplating the same thoughts they did.  It was like a direct connection to their experiences and emotions. This book showed me that simplicity, when done right, can have a profound impact on readers. It proved that brevity, combined with thoughtful imagery and endings, can deliver an immersive and thought-provoking experience akin to that of a much longer novel.
+
+## Comments
+
+<div id="artalk"></div>
+<script>
+Artalk.init({
+  el:        '#artalk',
+  pageKey:   '',
+  pageTitle: '',
+  server:    'https://artalk.jamesflare.com',
+  site:      'NancyFlare',
+})
+</script>

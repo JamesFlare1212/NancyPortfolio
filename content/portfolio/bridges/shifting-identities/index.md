@@ -99,3 +99,16 @@ If I did this project again I would change my way of doing photoshop, instead of
 I got mostly positive reviews, which made me feel really grateful. Allen thinks that the color of my container fits my work very well. Although at first glance, there are a mixed colors which made him confused, but after a closer look, he feels that the colors of each part are actually linked together to form a harmonious. Ali is very fond of my future one, he said it's kind of out of reality, the closure I used made me out of body, but my spirit is still moving through my body. Mina said she found I have a strong focal point, both the future and past one are facing to the middle, and there is a continuous line directed from the left to right and a reflected red circle at the background.
 
 There still can be a bit improvement, the past one is a bit too cold compare to the other ones. As a result, I will change the tone of my past version in order to increase the continuity.
+
+## Comments
+
+<div id="artalk"></div>
+<script>
+Artalk.init({
+  el:        '#artalk',
+  pageKey:   '',
+  pageTitle: '',
+  server:    'https://artalk.jamesflare.com',
+  site:      'NancyFlare',
+})
+</script>

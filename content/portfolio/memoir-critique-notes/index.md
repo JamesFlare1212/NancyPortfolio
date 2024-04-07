@@ -22,3 +22,16 @@ The photos I presented to my classmates are:
 What I heard in critique was, first of all, the connection between the two pictures is not strong enough, the cohesive and continuity can be improved by changing the tone style and try to make the person into the approximate size cause both of my portrait are showing in the middle. After that, for my past photo, the variety of elements can be increased, also there can be a bit change on the repetitive  background, like even though they are in collectivism, there is a small individuals between each other. While for the present photo, the blurry edge should be cut off, and the collage arrangement of my hometown on the right can be more ordered and logical. And for the New York part, trying to make the building following the direction as the sign showed in order to enforce the present situtaion.
 
 It was helpful because, the critique gives me a different perspective of my artwork and there are so many suggestion I can adopt to improve my work. What I plan to do next is following the suggestions that I think are useful and improve them on my photo. For my past one, I may rearrange the composition, like making the center object smaller, also add more meaningful stuff from my childhood. Meanwhile, I may change bit of the repetitive background and make them more intriguing. For my present photo, I would focus more on the rearrangement of both city collage.
+
+## Comments
+
+<div id="artalk"></div>
+<script>
+Artalk.init({
+  el:        '#artalk',
+  pageKey:   '',
+  pageTitle: '',
+  server:    'https://artalk.jamesflare.com',
+  site:      'NancyFlare',
+})
+</script>

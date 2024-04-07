@@ -21,3 +21,16 @@ The MBTI test help individuals better understand their own personality tendencie
 This kind of personality test are really engaging, they have attractive illustrations that represent different type of personalities that help the test easier to spread out and discuss. Meanwhile, the way of testing is simply just multiple choices,  which subconsciously makes it easier for people to answer questions.
 
 On the other hand, the multiple choices method does have its drawbacks, it's easy for people to answer questions too quickly and not to think deeply, thus ignoring some of their true characteristics and skewing the results. Moreover, the MBTI classification of personality is relatively simple, only divided into 16 types. Such a classification may not be accurate enough, because everyone has their own unique personality traits, a person's personality is composed of many factors, using such a simple classification limits the scope of understanding personality.
+
+## Comments
+
+<div id="artalk"></div>
+<script>
+Artalk.init({
+  el:        '#artalk',
+  pageKey:   '',
+  pageTitle: '',
+  server:    'https://artalk.jamesflare.com',
+  site:      'NancyFlare',
+})
+</script>

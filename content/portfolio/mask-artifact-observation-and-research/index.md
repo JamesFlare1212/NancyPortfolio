@@ -142,10 +142,10 @@ weight = 0
 
 ## Comments
 
-<div id="Comments"></div>
+<div id="artalk"></div>
 <script>
 Artalk.init({
-  el:        '#Comments',
+  el:        '#artalk',
   pageKey:   '',
   pageTitle: '',
   server:    'https://artalk.jamesflare.com',

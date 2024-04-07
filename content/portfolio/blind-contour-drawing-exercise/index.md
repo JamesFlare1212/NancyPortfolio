@@ -27,3 +27,16 @@ This was a blind contour exercise, we were grouped in pairs and drew a blind con
 ## Reflection
 
 I'm a bit drawing too fast during the exercise, therefore I didn't have a clear overview of my whole drawing and result in a massive line drawing. I should slow my pace next time and draw it in a more careful way.
+
+## Comments
+
+<div id="artalk"></div>
+<script>
+Artalk.init({
+  el:        '#artalk',
+  pageKey:   '',
+  pageTitle: '',
+  server:    'https://artalk.jamesflare.com',
+  site:      'NancyFlare',
+})
+</script>
