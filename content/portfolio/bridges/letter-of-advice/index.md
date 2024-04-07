@@ -30,9 +30,41 @@ weight = 0
 **Interview Audio**
 
 <audio controls>
-  <source src="Minas-response-to-Nancy.m4a" type="audio/aac">
+  <source src="minas-response-to-nancy-enhanced-90p.m4a" type="audio/aac">
   Your browser does not support the audio element.
 </audio>
+
+{{< details "**\>\>\>** This is the optimized transcript of the interview (Click to expand)" >}}
+Q: How do your hobbies or interests shape the people you spend time with in public?
+> I think it's because I spend a lot of time doing the things I enjoy. For example, in high school, I joined sports and clubs, so I met a lot of people, like my friends. Many of my friends are from the sports teams or clubs I joined. It's because I spend a lot of time doing those activities, so I naturally started talking to people who have the same interests. I think they also have similar experiences as me, so they can relate to my experience very easily.
+
+Q: Can you share a moment when you felt out of place in a social situation, and how did you handle it?
+> I think I'm personally more introverted. When I meet someone who is more extroverted, I tend to speak less because I get a bit scared. However, when I meet someone who is more introverted, I tend to be the one who talks more. I think, especially in a group of people who are super extroverted, I usually feel very out of place. But sometimes, I push myself to try to engage more, and I'm working on it. Another moment I would feel out of place is when I'm with friends from different cultural backgrounds. Back when I was in Shanghai, I had a few friends who didn't speak Chinese. Sometimes, I would talk to other friends who could speak Chinese when they weren't there. I never realized that it was kind of rude because they couldn't understand what I was saying, and they would feel very out of place. I didn't realize that until I met other people who spoke the same language as me when I didn't, and I felt that way too. That's an experience where I felt very out of place.
+
+Q: What kind of events or gatherings do you enjoy most, and why?
+> I really enjoy hanging out with a few close friends. While I do enjoy hanging out with a bunch of people and meeting new people, I think what I enjoy the most is having a movie night or going somewhere with my super close friends because I just feel so comfortable. I don't get stressed a lot when I'm just hanging out with a few people, as I'm supposed to.
+
+Q: Have you ever had to adapt your behavior based on the people you were with in a public space?
+> Yes, definitely. This is a very small thing, but I think whenever you're hanging out with a group of people and they have the same perspective on something, I'm really good at speaking with them or even just about celebrities or the music they like. If you know they don't like certain things, you tend to try to avoid talking about it. So, especially when I'm not super close with them, I'm always thinking, "What if I say this and they don't want to be friends with me?" I adapt a lot of my behavior based on who I'm hanging out with.
+
+Q: How do your friends influence your social activities and interactions?
+> My friends influence my social activities and interactions by sometimes inviting me to hang out with their friends. Even though I don't usually do those social activities, sometimes I think I should try it out and see if I like it. For example, one time, my friend wanted to go to karaoke, and I had never done that before. At first, I didn't want to go because I thought it was so embarrassing and didn't want to sing in front of everyone. But then I went, and it was very fun, so we went back. I think a lot of times, my friends can influence my social activities and interactions by making me try new things.
+
+Q: Do you think your neighborhood or where you grew up has influenced your social identity? How?
+> Yes, I definitely think so. A lot of my perspectives or what I believe in are things that I learned as a kid, and I think it's really hard for me to forget about those things and adopt the new things I've learned as I grew up. For example, the things my mom told me 10 years ago, just on a random day, I still think about. Sometimes, when I do something that goes against those beliefs, I feel so guilty. So, I think it definitely influenced me in a lot of ways, especially in terms of my social activities.
+
+Q: What's an example of a challenge you've faced when trying to fit into a new group or community?
+> I was struggling so much and trying really hard to fit in by doing things they liked. For example, I would watch TV shows they were talking about or start listening to music they liked, just to try to fit in. That usually doesn't work because they have been watching those TV shows their whole life or have been watching those cartoons since they were kids. I think that was very hard for me, but over the years, I learned that it's actually more interesting when you bring something new into the group and share that instead of forcing yourself to adopt what they like.
+
+Q: How do you use social media in your daily life, and how does it impact your social interactions?
+> I check my social media way too frequently, and I think I get very frustrated. For example, when I'm texting my friend and suddenly they don't reply, I start thinking, "Did I do something wrong? What is happening? What are they doing? Do they not like me anymore?" I overthink those online interactions more than when I'm hanging out with other friends in person. I tend to focus more on the interactions I have online because you can easily look back, but in the moment, it's harder to remember. Sometimes, I don't even remember things happening in person, but there's more evidence online. I think that is not a good thing, and I should try to focus more on living in the moment.
+
+Q: How do you express your social identity through your clothing, appearance, or personal style, and what messages do you aim to convey?
+> I don't think I have a really strong social identity through my clothing because, to be honest, I just follow the trends. It's true that I don't have a distinct social identity in that sense. I think my style or how I dress is really based on the people around me. For example, in high school, I would go to the places my friends all went to, so I really just followed the trends. I don't think I have a strong identity in terms of styling or appearance.
+
+Q: Have you ever encountered stereotypes or biases related to your social identity, and how did you respond to them?
+> Oh yeah, I definitely encountered stereotypes. For example, there are different beauty standards in Asia and Western cultures. In Western cultures, they want to be tanned, and I don't really care about that, but I was just too lazy to wear sunscreen. In Asia, people tend to prefer pale skin. Girls are told, "You need to be pale, wear sunscreen, and hold an umbrella when the sun is out." When I was in China, I remember a lot of people asking if I was Asian or not, even though I look Asian. They would say, "Oh, I'm surprised you're Asian because you're so tanned." I got really tanned one summer, and whenever I was with my friends, they would just assume I wasn't Asian, so they would talk about things in Chinese, but I could understand what they were saying. It was kind of awkward because obviously, here, they can tell I'm Asian, but in China or Taiwan, when I went back, they would say, "Oh, you don't look Asian," and I'm like, "I'm Asian. I look 100% Asian." I wasn't sure if I should be offended or if it was a compliment. I think I was just confused by that.
+{{< /details >}}
 
 ## Letter of advice for Mina
 

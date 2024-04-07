@@ -15,8 +15,8 @@ weight = 0
 The photos I presented to my classmates are:
 
 {{< gallery >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/final-past.avif" caption="Past" >}}
-  {{< figure src="portfolio/bridges/bridges-shifting-identities/final-present.avif" caption="Present" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/final-past.avif" caption="Past" >}}
+  {{< figure src="portfolio/bridges/shifting-identities/final-present.avif" caption="Present" >}}
 {{< /gallery >}}
 
 What I heard in critique was, first of all, the connection between the two pictures is not strong enough, the cohesive and continuity can be improved by changing the tone style and try to make the person into the approximate size cause both of my portrait are showing in the middle. After that, for my past photo, the variety of elements can be increased, also there can be a bit change on the repetitive  background, like even though they are in collectivism, there is a small individuals between each other. While for the present photo, the blurry edge should be cut off, and the collage arrangement of my hometown on the right can be more ordered and logical. And for the New York part, trying to make the building following the direction as the sign showed in order to enforce the present situtaion.

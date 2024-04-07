@@ -15,7 +15,7 @@ googleAnalytics = ""
   description = "A simple portfolio for showcasing work. Made with love by Nancy Xue."
   copyright = "&copy;2024 Nancy Xue"
   sidebarAbout = [
-    "I am a student of Parsons School of Design",
+    "I am a student of Parsons School of Design.",
     "Originally from China, currently based in United States."
   ]
   # Contact page

@@ -9,7 +9,9 @@ Grid Layout Styles
 */
 .gallery {
     overflow: hidden;
-    margin: 0 auto 24px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
     max-width: 768px;
 }
 .gallery .box {
@@ -166,7 +168,7 @@ figcaption styles
     top: 100%;
 }
 figcaption p {
-    margin: 0 auto 24px; /* override style in theme */
+    margin-top: 8px;
+    margin-bottom: 8px;
     text-align: center;
 }
-

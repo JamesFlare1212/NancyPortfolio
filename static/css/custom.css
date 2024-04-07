@@ -1,19 +1,130 @@
-/* your styles go here */
-.row {
-    display: flex;
-    justify-content: center;
-  }
+/* Global Styles */
+p, ul, blockquote {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
 
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
+p, li {
+  color: #555555 !important;
+}
+
+ul, ol {
+  padding-inline-start: 0px;
+  margin-left: 1em;
+}
+
+li {
+  margin-left: 0.1em;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4 .h4, .h5, h5, .h6, h6 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* Layout Styles */
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.content-column {
+  padding-top: 26px;
+  padding-right: 36px;
+}
+
+.content-column-content {
+  padding-bottom: 56px;
+}
+
+#sidebar {
+  padding-top: 18px;
+  padding-left: 36px;
+}
 
 .box {
-    margin: 0 auto;
-  }
+  margin: 0 auto;
+}
 
+/* Gallery Styles */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Sidebar Styles */
+.sidebar-menu {
+  list-style-type: none;
+  padding-left: 20px;
+  margin-bottom: 12px;
+}
+
+.sidebar-heading {
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.sidebar-menu {
+  padding-left: 12px;
+}
+
+/* Social Styles */
+p.social {
+  margin-top: 12px;
+}
+
+/* Media Styles */
 audio {
-    width: 100%;
-  }
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* Details and Summary Styles */
+details, summary, table {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* Blockquote Styles */
+blockquote {
+  padding: 2px 18px;
+}
+
+blockquote p {
+  margin-top: 8px;
+  margin-bottom: 8px !important;
+}
+
+/* Box Masonry Text Styles */
+.box-masonry-text h4 {
+  margin-top: 0px;
+  margin-bottom: 5.5px;
+}
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 0.3rem 1rem;
+  border: 1px solid #000000;
+  color: #555555;
+}
+
+th {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+  color: #000000;
+}
+
+/* Copyright Styles */
+.copyright p.credit a {
+  color: #225b5b;
+}
+
