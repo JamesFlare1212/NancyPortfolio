@@ -7,13 +7,14 @@
     {{ .Site.Title }}
   {{ end }}
 </title>
+{{ partial "css.html" . }}
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
-<link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
+<link rel="preload" href="{{ "css/bootstrap.min.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="{{ "css/font-awesome.min.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="{{ "css/owl.carousel.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="{{ "css/owl.theme.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
   <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
@@ -30,7 +31,7 @@
   ` | safeHTML }}
 
 <!-- Custom stylesheet - for your changes -->
-<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
+<link rel="preload" href="{{ "css/custom.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
 {{ with .OutputFormats.Get "RSS" }}
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
