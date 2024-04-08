@@ -35,6 +35,10 @@ audio {
   width: 100%;
   margin-top: 8px;
   margin-bottom: 8px;
+  max-width:768px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 /* Details and Summary Styles */
@@ -78,4 +82,15 @@ th {
 .atk-comment-count ul li::before {
   content: '';
   margin: 0px;
+}
+
+/* Video Styles */
+video {
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  max-width:768px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
