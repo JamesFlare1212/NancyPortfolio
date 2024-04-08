@@ -56,13 +56,4 @@ For the researching part,  When I read this book, “Sophie Calle - True Storie
 
 ## Comments
 
-<div id="artalk"></div>
-<script>
-Artalk.init({
-  el:        '#artalk',
-  pageKey:   '',
-  pageTitle: '',
-  server:    'https://artalk.jamesflare.com',
-  site:      'NancyFlare',
-})
-</script>
+{{< comments >}}

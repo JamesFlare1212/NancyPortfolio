@@ -107,13 +107,4 @@ The interview part, also the research part of the whole project, is the place wh
 
 ## Comments
 
-<div id="artalk"></div>
-<script>
-Artalk.init({
-  el:        '#artalk',
-  pageKey:   '',
-  pageTitle: '',
-  server:    'https://artalk.jamesflare.com',
-  site:      'NancyFlare',
-})
-</script>
+{{< comments >}}

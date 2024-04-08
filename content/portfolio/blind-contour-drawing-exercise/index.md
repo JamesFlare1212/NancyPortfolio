@@ -30,13 +30,4 @@ I'm a bit drawing too fast during the exercise, therefore I didn't have a clear 
 
 ## Comments
 
-<div id="artalk"></div>
-<script>
-Artalk.init({
-  el:        '#artalk',
-  pageKey:   '',
-  pageTitle: '',
-  server:    'https://artalk.jamesflare.com',
-  site:      'NancyFlare',
-})
-</script>
+{{< comments >}}

@@ -25,13 +25,4 @@ It was helpful because, the critique gives me a different perspective of my artw
 
 ## Comments
 
-<div id="artalk"></div>
-<script>
-Artalk.init({
-  el:        '#artalk',
-  pageKey:   '',
-  pageTitle: '',
-  server:    'https://artalk.jamesflare.com',
-  site:      'NancyFlare',
-})
-</script>
+{{< comments >}}

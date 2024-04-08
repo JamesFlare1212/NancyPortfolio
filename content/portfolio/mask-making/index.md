@@ -104,13 +104,4 @@ I was "Creative Making" in this project when I was conducting preliminary resear
 
 ## Comments
 
-<div id="artalk"></div>
-<script>
-Artalk.init({
-  el:        '#artalk',
-  pageKey:   '',
-  pageTitle: '',
-  server:    'https://artalk.jamesflare.com',
-  site:      'NancyFlare',
-})
-</script>
+{{< comments >}}

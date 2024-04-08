@@ -4,10 +4,6 @@ p, ul, blockquote {
   margin-bottom: 8px;
 }
 
-p, li {
-  color: #555555 !important;
-}
-
 ul, ol {
   padding-inline-start: 0px;
   margin-left: 1em;
@@ -17,31 +13,10 @@ li {
   margin-left: 0.1em;
 }
 
-h1, .h1, h2, .h2, h3, .h3, h4 .h4, .h5, h5, .h6, h6 {
-  margin-top: 8px;
-  margin-bottom: 8px;
-}
-
 /* Layout Styles */
 .row {
   display: flex;
   justify-content: center;
-}
-
-.content-column {
-  padding-top: 26px;
-  padding-left: 36px;
-  padding-right: 36px;
-}
-
-.content-column-content {
-  padding-bottom: 56px;
-}
-
-#sidebar {
-  padding-top: 18px;
-  padding-left: 36px;
-  padding-right: 0px;
 }
 
 .box {
@@ -53,28 +28,6 @@ h1, .h1, h2, .h2, h3, .h3, h4 .h4, .h5, h5, .h6, h6 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-/* Sidebar Styles */
-.sidebar-menu {
-  list-style-type: none;
-  padding-left: 20px;
-  margin-bottom: 12px;
-}
-
-.sidebar-heading {
-  font-size: 24px;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
-
-.sidebar-menu {
-  padding-left: 12px;
-}
-
-/* Social Styles */
-p.social {
-  margin-top: 12px;
 }
 
 /* Media Styles */
@@ -91,10 +44,6 @@ details, summary, table {
 }
 
 /* Blockquote Styles */
-blockquote {
-  padding: 2px 18px;
-}
-
 blockquote p {
   margin-top: 8px;
   margin-bottom: 8px !important;
@@ -123,11 +72,6 @@ th {
   font-size: 1em;
   text-align: center;
   color: #000000;
-}
-
-/* Copyright Styles */
-.copyright p.credit a {
-  color: #225b5b;
 }
 
 /* Comment Styles - fix list bullet*/

@@ -35,7 +35,6 @@
 {{ with .OutputFormats.Get "RSS" }}
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
-{{ template "_internal/google_analytics.html" . }}
 <script async src="https://track.jamesflare.com/script.js" data-website-id="226742b8-6efb-4be9-8f8f-d297df42401c"></script>
 <link rel="preload" as="script" href="https://artalk.jamesflare.com/dist/Artalk.js">
 <link rel="preload" as="stylesheet" href="https://artalk.jamesflare.com/dist/Artalk.css">
