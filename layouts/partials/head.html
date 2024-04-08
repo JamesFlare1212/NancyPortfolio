@@ -11,15 +11,14 @@
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preload" href="{{ "css/bootstrap.min.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="preload" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="{{ "css/font-awesome.min.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="{{ "css/owl.carousel.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="{{ "css/owl.theme.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
-  <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
+<link rel="preload" href="{{ printf "css/style.%s.css" . | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 {{ else }}
-  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
+<link rel="preload" href="{{ "css/style.default.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 {{ end }}
  <!-- Responsivity for older IE -->
 <!-- Just in case -->
@@ -37,3 +36,4 @@
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 <script async src="https://track.jamesflare.com/script.js" data-website-id="226742b8-6efb-4be9-8f8f-d297df42401c"></script>
+<link rel="preload" href="https://artalk.jamesflare.com/dist/Artalk.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
