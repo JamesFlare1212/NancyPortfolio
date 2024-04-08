@@ -92,6 +92,7 @@ With love and encouragement,
 Nancy
 
 {{< figure src="portfolio/bridges/letter-of-advic/letter-to-Mina.avif" width=480px caption="Letter of advice for Mina" >}}
+{{< load-photoswipe >}}
 
 ## Reflection
 
