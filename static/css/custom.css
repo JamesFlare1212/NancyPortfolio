@@ -94,3 +94,9 @@ video {
   margin-right: auto;
   display: block;
 }
+
+/* Fix too Narrow on Mobile */
+.col-lg-8 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
