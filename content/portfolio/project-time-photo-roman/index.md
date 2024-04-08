@@ -21,7 +21,7 @@ weight = 0
 ## Final
 
 <video controls>
-  <source src="final.mp4" type="video/mp4">
+  <source src="https://minio-lv-a.jamesflare.com/nancyflare/portfolio/project-time-photo-roman/final.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
