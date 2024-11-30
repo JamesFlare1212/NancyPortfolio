@@ -6,7 +6,7 @@ image = "portfolio/bridges/letter-of-advic/featured.avif"
 date = 2023-09-25T19:40:58-04:00
 title = 'Letter of Advice'
 description = "A formal letter full of advice to Mina."
-summary = ""
+summary = "A formal letter full of advice to Mina."
 weight = 0
 +++
 

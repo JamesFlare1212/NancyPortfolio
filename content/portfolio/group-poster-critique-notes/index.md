@@ -6,7 +6,7 @@ image = "portfolio/group-poster-critique-notes/featured.avif"
 date = 2023-10-27T08:06:43-05:00
 title = 'Group Poster Critique Notes'
 description = "This blog post discusses the progress of my art deco prototype project, comparing gouache and oil sticks techniques, and the next steps for refining design elements."
-summary = ""
+summary = "This blog post discusses the progress of my art deco prototype project, comparing gouache and oil sticks techniques, and the next steps for refining design elements."
 weight = 0
 +++
 
