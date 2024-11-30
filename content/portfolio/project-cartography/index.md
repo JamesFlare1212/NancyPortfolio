@@ -10,6 +10,8 @@ summary = "In this project, we began with observational drawings of a cinder blo
 weight = 0
 +++
 
+> Published 2023/04/09
+
 ## Introduction
 
 In this project, we began with observational drawings of a cinder block and sphere to practice rendering light and shadow. We started with pencil sketches and then divided them into only black and white by charcoal to explore edge quality and shadow mass at their highest contrast.

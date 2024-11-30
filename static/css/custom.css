@@ -100,3 +100,8 @@ video {
   padding-right: 0px;
   padding-left: 0px;
 }
+
+.sidebar-content {
+  z-index: 0;
+  padding: 0 0em 0 0em;
+}
