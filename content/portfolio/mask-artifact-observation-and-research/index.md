@@ -20,7 +20,7 @@ weight = 0
 ### Yup'ik, Native American
 
 > From [The Metropolitan Museum of Art](https://www.metmuseum.org/)
-> 
+>
 > Subjective reaction: It gives me the joy of having a good harvest (catching a lot of fish) and a hunger for prey.
 
 {{< gallery >}}
@@ -47,7 +47,7 @@ weight = 0
 ### Tlingit, Native American
 
 > From [The Metropolitan Museum of Art](https://www.metmuseum.org/)
-> 
+>
 > Subjective reaction: The first reaction was joy and happiness, but as I gazed at its completely black pupils, I felt a sense of fear and numbness.
 
 {{< gallery >}}
@@ -73,7 +73,7 @@ weight = 0
 ### Emberá Macaw
 
 > From the [The Museum of Cultural Masks: Second Face](https://www.maskmuseum.org/home/)
-> 
+>
 > Subjective reaction: It is a really cute one, round black eyes with beautiful feathers around.
 
 {{< gallery >}}
@@ -101,43 +101,43 @@ weight = 0
 ### Yup'ik, Native American
 
 > #### Why the mask was made?
-> 
+>
 > This Yup'ik mask shows the artist's view of nature's connections using animal images. It was made to represent supernatural beings and stories and worn in important community dance ceremonies. The mask has both spiritual and social purposes.
-> 
+>
 > #### How it was made?
-> 
+>
 > The mask seems to be carved from wood and includes natural materials like hair, grass, and maybe feathers. The wood makes it durable, and the mixed materials give it symbolic texture, connecting it to the Yup'ik environment.
-> 
+>
 > #### How it was used?
-> 
+>
 > This mask was worn during dance ceremonies and rituals in the Yup'ik community. Wearing it allowed the person to become the depicted spiritual being and reconnect with ancestral stories. Wearing it publicly showed the owner's status and knowledge.
 
 ### Tlingit, Native American
 
 > #### Why the mask was made?
-> 
+>
 > This Tlingit mask was made to represent a specific spirit or ancestor. It was worn during important ceremonial potlatches to share tribal myths and histories with the community.
-> 
+>
 > #### How it was made?
-> 
+>
 > The Tlingit mask is carved from wood and painted with symbolic red and green pigments. The sturdy wood and lasting pigments highlight the sacred nature of the mask and its role in recurring ceremonies. The stylized carved lines give it a distinctive Tlingit look.
-> 
+>
 > #### How it was used?
-> 
+>
 > The Tlingit mask was worn as part of a ceremonial headdress by a dancer or storyteller. Wearing the mask allowed the person to fully embody the specific ancestral spirit during dramatic retellings of myths and histories. Its visual impact strengthened the oral performance and the social aspects of the potlatch gatherings.
 
 ### Emberá Macaw
 
 > #### Why the mask was made?
-> 
+>
 > The Emberá people made masks like this Macaw, representing animal spirits, for shamans to use in healing and purification rituals. These masks connect to their belief system and help restore balance in their villages, with the vibrant colors of the macaw holding symbolic meaning.
-> 
+>
 > #### How it was made?
-> 
+>
 > The mask is woven from palm fibers dyed in bright blues, yellows, and blacks. The natural fibers and colors link to the Emberá's surroundings and resources.
-> 
+>
 > #### How it was used?
-> 
+>
 > Shamans would use the Macaw mask in communal rituals, either wearing it or displaying it prominently. This brings the energy and symbolism of the macaw into the ritual to promote healing and purification. The lively colors and form of the mask reinforce the ritual's meaning and intentions.
 
 ## Comments

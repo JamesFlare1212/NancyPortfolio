@@ -10,7 +10,7 @@ summary = "A formal letter full of advice to Mina."
 weight = 0
 +++
 
-> Published 2023/10/26 at 2:28 pm
+> Published 2023/09/25 at 2:28 pm
 
 ## Interview
 

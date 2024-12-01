@@ -29,7 +29,6 @@ Since then, the nature of the hide-and-seek has changed. It was no longer a game
 
 My masterpiece, whatever it is, was proof of the absurdity of art. It encourages viewers to delve into abstraction, question what exactly they're looking at, and appreciate the joy that unfolds when artists hide behind their own art. Even if I was just playing hide-and-seek at first.
 
-
 ## Going Up!
 
 With each laborious step up the staircase in the New York City subway, the environment around me underwent a dramatic transformation. What had begun as a narrow, dimly lit underpass gradually gave way to a bright, expansive vista. Emerging from the subterranean shadows, my eyes struggled to adjust to the sudden onslaught of sunlight. My brow furrowed, and my palms began to glisten with a hint of nervous sweat. I pursed my lips, attempting to acclimate to my new surroundings, as the faint scent of rubbish still lingered in the air, now masked by the overpowering perfume of hurried urbanites passing by.
