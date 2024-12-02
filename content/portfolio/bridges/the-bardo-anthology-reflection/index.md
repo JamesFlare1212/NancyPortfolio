@@ -2,11 +2,11 @@
 slug = "the-bardo-anthology-reflection"
 showonlyimage = false
 draft = false
-image = ""
+image = "portfolio/bridges/the-bardo-anthology-reflection/featured.avif"
 date = 2023-11-10T16:52:12-05:00
 title = 'The Bardo Anthology (reflection)'
-description = ""
-summary = ""
+description = "This post reflects on my experience working on a group project that involved writing a creative fiction novel, as well as creating posters."
+summary = "This post reflects on my experience working on a group project that involved writing a creative fiction novel, as well as creating posters."
 weight = 0
 +++
 
