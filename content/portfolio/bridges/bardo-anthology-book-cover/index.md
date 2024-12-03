@@ -14,7 +14,7 @@ weight = 0
 
 ## Introduction
 
-This project is connected with integrated seminar 1. The purpose of the project is group cooperation, and the finished product is a book. Each group will be assigned different opposite themes, while integrated studio 1 is to create corresponding posters according to familiar themes and contents. 
+This project is connected with integrated seminar 1. The purpose of the project is group cooperation, and the finished product is a book. Each group will be assigned different opposite themes, while integrated studio 1 is to create corresponding posters according to familiar themes and contents.
 
 Our project theme is hero/monster, and the team members are Fany, Ali, Ruoyu and Nancy.
 The poster will be divided into four parts, each of us responsible for a different part and put it in a different context.
@@ -80,16 +80,16 @@ My two prototype posters took inspiration from the Art Deco artist Erté, using 
 {{< figure src="portfolio/bridges/bardo-anthology-book-cover/final-poster.avif" width="480px" caption="Final Poster" >}}
 
 > Figure drawing: Rouyu
-> 
+>
 > Background drawing: Nancy & Fany
-> 
+>
 > Typography: Fany
-> 
+>
 > Collage: Fany & Rouyu & Nancy
 
 ### Stage 2 Reflection
 
-I think the biggest problem our team encountered was that we lacked a team member in the production process, and our work process was indeed greatly affected. At the beginning of the project, we misunderstood the size of the poster, and the previous design scheme could not be used, so we had to start over. This has certainly added to our workload. As a member of the team, I should have strengthened communication with other members and worked out an optimization plan based on the current situation. But I was trying to take on extra work on my own, trying to make up for the lack of staff. This obviously puts a lot of pressure on me personally. 
+I think the biggest problem our team encountered was that we lacked a team member in the production process, and our work process was indeed greatly affected. At the beginning of the project, we misunderstood the size of the poster, and the previous design scheme could not be used, so we had to start over. This has certainly added to our workload. As a member of the team, I should have strengthened communication with other members and worked out an optimization plan based on the current situation. But I was trying to take on extra work on my own, trying to make up for the lack of staff. This obviously puts a lot of pressure on me personally.
 
 What I find interesting about this project is that when we work together as a group to make posters, we can feel that our different styles are integrated together, but not out of place. Each of us has a different solution to the problem, and it is interesting to compare the best. At the same time, I think the most interesting place is that I found some useful things in the recycling shelf of the making center, which undoubtedly greatly helped our group project process.
 
